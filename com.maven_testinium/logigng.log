@@ -1,0 +1,10 @@
+2021-04-26 16:39:32.662 INFO  TestMain:36 - Login to the homepage.
+2021-04-26 16:39:34.556 INFO  TestMain:53 - You are on the member login page
+2021-04-26 16:39:39.616 INFO  TestMain:69 - You are logged in
+2021-04-26 16:39:43.875 INFO  TestMain:79 - The word has been written in the search bar
+2021-04-26 16:39:46.451 INFO  TestMain:98 - You are on the second page
+2021-04-26 16:39:48.920 INFO  TestMain:108 - Random product selected
+2021-04-26 16:39:51.039 INFO  TestMain:128 - Product has been added to cart
+2021-04-26 16:39:52.023 INFO  TestMain:150 - The product price is equal to the price of the basket
+2021-04-26 16:39:52.715 INFO  TestMain:161 - Amount increased
+2021-04-26 16:39:54.935 INFO  TestMain:175 - Your basket is empty and test is success
